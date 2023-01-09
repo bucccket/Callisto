@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\bucccket\source\repos\Callisto\minifb\src\MiniFB_common.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bucccket\source\repos\Callisto\minifb\src\MiniFB_cpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bucccket\source\repos\Callisto\minifb\src\MiniFB_internal.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bucccket\source\repos\Callisto\minifb\src\MiniFB_timer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bucccket\source\repos\Callisto\minifb\src\gl\MiniFB_GL.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bucccket\source\repos\Callisto\minifb\src\windows\WinMiniFB.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\bucccket\source\repos\Callisto\minifb\include\MiniFB.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bucccket\source\repos\Callisto\minifb\include\MiniFB_cpp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bucccket\source\repos\Callisto\minifb\include\MiniFB_enums.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bucccket\source\repos\Callisto\minifb\src\MiniFB_internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bucccket\source\repos\Callisto\minifb\src\WindowData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bucccket\source\repos\Callisto\minifb\src\gl\MiniFB_GL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bucccket\source\repos\Callisto\minifb\src\windows\WindowData_Win.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\bucccket\source\repos\Callisto\minifb\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C242A4D6-0225-3AF8-8956-E8634B4F5607}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F73C9D7D-2F3B-3778-8C44-D373335C1F8A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
