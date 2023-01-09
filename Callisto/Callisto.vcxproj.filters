@@ -16,6 +16,9 @@
     <Filter Include="Source Files\tests">
       <UniqueIdentifier>{12acd9b2-74df-4d32-a032-7b4daa1f91e4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Resource Files\img">
+      <UniqueIdentifier>{bb8045ba-9a29-435c-881d-3a6f42bab93c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="tests\hidpi.c">
@@ -29,5 +32,13 @@
     <ClInclude Include="tests\imageloader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\luThink.pnm">
+      <Filter>Resource Files\img</Filter>
+    </None>
+    <None Include="img\luPushups.pnm">
+      <Filter>Resource Files\img</Filter>
+    </None>
   </ItemGroup>
 </Project>

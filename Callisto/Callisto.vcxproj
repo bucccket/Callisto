@@ -141,6 +141,10 @@
   <ItemGroup>
     <ClInclude Include="tests\imageloader.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="img\luPushups.pnm" />
+    <None Include="img\luThink.pnm" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
